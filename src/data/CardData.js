@@ -1,6 +1,6 @@
-import image1 from '../images/image2.png'
-import image2 from '../images/image3.png'
-import image3 from '../images/image1.png'
+import image1 from '../images/card1.svg'
+import image2 from '../images/card2.svg'
+import image3 from '../images/card3.svg'
 
 export const cardData = [
     {image: image1, title: 'Addiction', paragraph: 'You should Seek the advice of a mental health professional for proper treatment or any recommended..', color: '#3188A9'},
