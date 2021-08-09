@@ -61,7 +61,7 @@ const SidebarMenuLink = styled(Link)`
     display: flex;
     align-items: center;
     color: #000;
-    font-size: .8rem;
+    font-size: 1rem;
     font-weight: 500;
     letter-spacing: 5px;
     text-decoration: none;
