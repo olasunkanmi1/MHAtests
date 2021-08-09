@@ -18,7 +18,7 @@ const Container = styled.section`
         width: 30%;
         color: #143861;
         font-size: 30px;
-        // font-weight: 100;
+        font-weight: 300;
         text-align: center;
         padding: 3rem 0;
 
