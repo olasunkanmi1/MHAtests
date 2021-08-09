@@ -36,7 +36,6 @@ const Container = styled.section`
         
         @media screen and (max-width: 540px) {
             width: 80%;
-            font-size: 25px;
         }
         
         @media screen and (max-width: 420px) {
@@ -47,7 +46,7 @@ const Container = styled.section`
         }
         
         @media screen and (max-width: 300px) {
-            font-size: 20px;
+            font-size: 25px;
         }
     }
 
