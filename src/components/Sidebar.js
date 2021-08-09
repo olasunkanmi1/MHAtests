@@ -61,13 +61,13 @@ const SidebarMenuLink = styled(Link)`
     display: flex;
     align-items: center;
     color: #000;
-    font-size: 1.2rem;
+    font-size: .8rem;
     font-weight: 500;
     letter-spacing: 5px;
     text-decoration: none;
     margin-bottom: 10px;
     width: 100%;
-    height: 35px;
+    height: 30px;
     transition: .3s;
 
     &:hover {
@@ -85,7 +85,7 @@ const Sidebar = ({ isOpen, toggle }) => {
                         {item.icon} {item.title}
                     </SidebarMenuLink>
                 ))}
-            <Button css={`max-width: 100%;`} >Get Started</Button>
+            <Button css={`max-width: 100%; font-weight: bold;`} >Get Started</Button>
             </SidebarMenu>
         </Container>
     )
