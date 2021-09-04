@@ -4,5 +4,4 @@
 
 .card:hover .arrow {
     transform: translateX(10px);  
-    /* display: flex; */
 }
