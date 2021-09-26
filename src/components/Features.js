@@ -10,7 +10,7 @@ const Container = styled.section`
     color: #063D66;
 
     h1 {
-        font-size: 30px;
+        font-size: 30px; 
         font-weight: 500;
     }
 
